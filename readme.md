@@ -9,3 +9,5 @@ const { logger, emoji } = require('logemoji')
 
 logger.status(emoji.progress, 'Building...')
 ```
+
+Used in parcel-bundler.
