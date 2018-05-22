@@ -1,7 +1,7 @@
 {
   "name": "logemoji",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "0.0.1",
+  "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "mocha": "^5.2.0",
+    "npm-patch": "^0.0.43-next.0.20339ae",
     "sinon": "^5.0.7"
   },
   "scripts": {
